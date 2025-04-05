@@ -1,6 +1,6 @@
 # Coconut Oil Sugar Cookies
 
-## Dough Ingredients
+## Ingredients
 
 | Ingredient      | Quantity | Unit  |
 | --------------- | -------- | ----- |

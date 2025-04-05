@@ -1,13 +1,15 @@
 # Coconut Macaroons
 
-## Sweetened Condensed Milk Ingredients
+## Ingredients
+
+### Sweetened Condensed Milk
 
 | Ingredient | Quantity | Unit |
 | ---------- | -------- | ---- |
 | whole Milk | 2        | cups |
 | Sugar      | ⅔        | cup  |
 
-## Dough Ingredients
+## Dough
 
 | Ingredient               | Quantity | Unit |
 | ------------------------ | -------- | ---- |

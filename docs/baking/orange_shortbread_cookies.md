@@ -1,6 +1,8 @@
 # Orange Shortbread Cookies
 
-## Dough Ingredients
+## Ingredients
+
+### Original
 
 | Ingredient      | Quantity | Unit   |
 | --------------- | -------- | ------ |
@@ -12,7 +14,7 @@
 | Flour           | 2 ½      | cups   |
 | Salt            | ¾        | tsp    |
 
-## Qing's Favorite Ingredients
+### Qing's Favorite
 
 | Ingredient      | Quantity | Unit   |
 | --------------- | -------- | ------ |

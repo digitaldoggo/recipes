@@ -1,6 +1,8 @@
 # Chocolate Orange Brownies
 
-## 9" x 8" Pan Ingredients
+## Ingredients
+
+### 9" x 8" Pan
 
 | Ingredient            | Quantity | Unit  |
 | --------------------- | -------- | ----- |
@@ -13,7 +15,7 @@
 | Cocoa Powder          | 50       | grams |
 | Dark Orange Chocolate | 100      | grams |
 
-## 9" Round Pan Ingredients
+### 9" Round Pan
 
 | Ingredient            | Quantity | Unit  |
 | --------------------- | -------- | ----- |
