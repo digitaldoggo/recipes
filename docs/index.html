@@ -21,7 +21,13 @@
   </script>
   <!-- Docsify v4 -->
 
+  <!-- <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script> -->
   <script>
+    // // const githubLogoUrl = "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png";
+    // const githubLogoUrl = "https://raw.githubusercontent.com/digitaldoggo/recipes/refs/heads/main/docs/images/github-mark.svg";
+    // const githubEditUrl = "https://github.com/digitaldoggo/recipes/blob/main/docs/";
+    // const linkTitle = "<span style='position: absolute; bottom: 0px; right: 0px;'>Edit <img src='" + githubLogoUrl + "' alt='on GitHub' style='height: 18px; vertical-align: middle; margin-left: 4px; margin-bottom: 4px' /></span>";
+
     window.$docsify = {
       loadSidebar: true,
       alias: {
@@ -30,6 +36,9 @@
       subMaxLevel: 2,
       sidebarDisplayLevel: 0, // set sidebar display level
       search: 'auto',
+      // plugins: [
+      //   EditOnGithubPlugin.create(githubEditUrl, null, linkTitle)
+      // ]
     }
   </script>
   <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
