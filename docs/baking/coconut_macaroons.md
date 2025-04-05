@@ -9,7 +9,7 @@
 | whole Milk | 2        | cups |
 | Sugar      | ⅔        | cup  |
 
-## Dough
+### Dough
 
 | Ingredient               | Quantity | Unit |
 | ------------------------ | -------- | ---- |
