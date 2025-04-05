@@ -1,7 +1,9 @@
 # Baking
 
-This is my collection of baking recipes from various sources.
+> This is my collection of baking recipes from various sources.
 
-[Egg Tarts - Hong Kong Style](./egg_tarts-hong_kong_style.md)
-
-[Orange Shortbread Cookies](./orange_shortbread_cookies.md)
+- [Chocolate Orange Brownies](/baking/chocolate_orange_brownies.md "Chocolate Orange Brownies")
+- [Orange Shortbread Cookies](/baking/orange_shortbread_cookies.md "Orange Shortbread Cookies")
+- [Egg Tarts - Hong Kong Style](/baking/egg_tarts-hong_kong_style.md "Egg Tarts - Hong Kong Style")
+- [Coconut Macaroons](/baking/coconut_macaroons.md "Coconut Macaroons")
+- [Coconut Oil Sugar Cookies](./coconut_oil_sugar_cookies.md "Coconut Oil Sugar Cookies")

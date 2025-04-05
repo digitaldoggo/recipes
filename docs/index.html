@@ -7,7 +7,11 @@
   <meta name="description" content="My Favorite Recipes">
   <meta name="keywords" content="recipes, cooking, food, favorite recipes">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link
+    rel="stylesheet"
+    href="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css"
+  />
 </head>
 <body>
   <div id="app"></div>
@@ -21,9 +25,14 @@
 
   <script>
     window.$docsify = {
-      loadSidebar: true
+      loadSidebar: true,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      subMaxLevel: 2,
     }
   </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>
 </html>
