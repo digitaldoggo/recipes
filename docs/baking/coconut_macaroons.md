@@ -4,18 +4,18 @@
 
 | Ingredient | Quantity | Unit |
 | ---------- | -------- | ---- |
-| Whole Milk | 2        | CUP  |
-| Sugar      | 0.666    | CUP  |
+| whole Milk | 2        | cups |
+| Sugar      | ⅔        | cup  |
 
 ## Dough Ingredients
 
-| Ingredient               | Quantity | Unit     |
-| ------------------------ | -------- | -------- |
-| Flaked Coconut           | 5.5      | CUP      |
-| Flour                    | 0.666    | CUP      |
-| Salt                     | 0.25     | TEASPOON |
-| Sweetened Condensed Milk | 1        | CAN      |
-| Vanilla Extract          | 2        | TEASPOON |
+| Ingredient               | Quantity | Unit |
+| ------------------------ | -------- | ---- |
+| Flaked Coconut           | 5 ½      | cups |
+| Flour                    | ⅔        | cup  |
+| Salt                     | ¼        | tsp  |
+| Sweetened Condensed Milk | 1        | can  |
+| Vanilla Extract          | 2        | tsp  |
 
 ## Process
 

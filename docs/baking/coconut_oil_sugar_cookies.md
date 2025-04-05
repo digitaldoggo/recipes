@@ -2,16 +2,16 @@
 
 ## Dough Ingredients
 
-| Ingredient      | Quantity | Unit     |
-| --------------- | -------- | -------- |
-| Sugar           | 1.25     | CUP      |
-| Unsalted Butter | 0.5      | CUP      |
-| Coconut Oil     | 0.5      | CUP      |
-| Egg Yolk        | 3        | WHOLE    |
-| Vanilla Extract | 1.5      | TEASPOON |
-| Flour           | 2.25     | CUP      |
-| Baking Powder   | 1.5      | TEASPOON |
-| Baking Soda     | 0.5      | TEASPOON |
+| Ingredient      | Quantity | Unit  |
+| --------------- | -------- | ----- |
+| Sugar           | 1 ¼      | cups  |
+| Unsalted Butter | ½        | cups  |
+| Coconut Oil     | ½        | cups  |
+| Egg Yolk        | 3        | whole |
+| Vanilla Extract | 1 ½      | tsp   |
+| Flour           | 2 ¼      | cups  |
+| Baking Powder   | 1 ½      | tsp   |
+| Baking Soda     | ½        | tsp   |
 
 ## Process
 

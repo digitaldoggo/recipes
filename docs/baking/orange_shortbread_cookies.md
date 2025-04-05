@@ -2,27 +2,27 @@
 
 ## Dough Ingredients
 
-| Ingredient      | Quantity | Unit     |
-| --------------- | -------- | -------- |
-| Sugar           | 0.5      | CUP      |
-| Orange Zest     | 2        | WHOLE    |
-| Unsalted Butter | 2        | STICK    |
-| Vanilla Extract | 1.5      | TEASPOON |
-| Egg             | 1        | WHOLE    |
-| Flour           | 2.5      | CUP      |
-| Salt            | 0.75     | TEASPOON |
+| Ingredient      | Quantity | Unit   |
+| --------------- | -------- | ------ |
+| Sugar           | ½        | cup    |
+| Orange Zest     | 2        | whole  |
+| Unsalted Butter | 2        | sticks |
+| Vanilla Extract | 1 ½      | tsp    |
+| Egg             | 1        | whole  |
+| Flour           | 2 ½      | cups   |
+| Salt            | ¾        | tsp    |
 
 ## Qing's Favorite Ingredients
 
-| Ingredient      | Quantity | Unit     |
-| --------------- | -------- | -------- |
-| Sugar           | 0.25     | CUP      |
-| Orange Zest     | 2        | WHOLE    |
-| Unsalted Butter | 2        | STICK    |
-| Vanilla Extract | 1.5      | TEASPOON |
-| Egg             | 1        | WHOLE    |
-| Flour           | 2.5      | CUP      |
-| Salt            | 0.75     | TEASPOON |
+| Ingredient      | Quantity | Unit   |
+| --------------- | -------- | ------ |
+| Sugar           | ¼        | cup    |
+| Orange Zest     | 2        | whole  |
+| Unsalted Butter | 2        | sticks |
+| Vanilla Extract | 1 ½      | tsp    |
+| Egg             | 1        | whole  |
+| Flour           | 2 ½      | cups   |
+| Salt            | ¾        | tsp    |
 
 ## Process
 

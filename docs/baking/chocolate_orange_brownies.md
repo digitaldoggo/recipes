@@ -4,27 +4,27 @@
 
 | Ingredient            | Quantity | Unit  |
 | --------------------- | -------- | ----- |
-| Unsalted Butter       | 200      | GRAM  |
-| Dark Chocolate        | 200      | GRAM  |
-| Orange Zest           | 1        | WHOLE |
-| Large Egg             | 4        | WHOLE |
-| Caster Sugar          | 350      | GRAM  |
-| Flour                 | 100      | GRAM  |
-| Cocoa Powder          | 50       | GRAM  |
-| Dark Orange Chocolate | 100      | GRAM  |
+| Unsalted Butter       | 200      | grams |
+| Dark Chocolate        | 200      | grams |
+| Orange Zest           | 1        | whole |
+| Large Egg             | 4        | whole |
+| Caster Sugar          | 350      | grams |
+| Flour                 | 100      | grams |
+| Cocoa Powder          | 50       | grams |
+| Dark Orange Chocolate | 100      | grams |
 
 ## 9" Round Pan Ingredients
 
 | Ingredient            | Quantity | Unit  |
 | --------------------- | -------- | ----- |
-| Unsalted Butter       | 170      | GRAM  |
-| Dark Chocolate        | 170      | GRAM  |
-| Orange Zest           | 1        | WHOLE |
-| Large Egg             | 3.5      | WHOLE |
-| Caster Sugar          | 300      | GRAM  |
-| Flour                 | 85       | GRAM  |
-| Cocoa Powder          | 43       | GRAM  |
-| Dark Orange Chocolate | 85       | GRAM  |
+| Unsalted Butter       | 170      | grams |
+| Dark Chocolate        | 170      | grams |
+| Orange Zest           | 1        | whole |
+| Large Egg             | 3 ½      | whole |
+| Caster Sugar          | 300      | grams |
+| Flour                 | 85       | grams |
+| Cocoa Powder          | 43       | grams |
+| Dark Orange Chocolate | 85       | grams |
 
 ## Process
 

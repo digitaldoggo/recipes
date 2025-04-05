@@ -4,24 +4,24 @@
 
 ### Tart
 
-| Ingredient      | Quantity | Unit       |
-| --------------- | -------- | ---------- |
-| Flour           | 1        | Cup        |
-| Unsalted Butter | 1        | Stick      |
-| Egg Yolk        | 1        | Whole      |
-| Powdered Sugar  | 2        | Tablespoon |
-| Cold Water      | 2        | Tablespoon |
-| Salt            | 0.5      | Teaspoon   |
+| Ingredient      | Quantity | Unit  |
+| --------------- | -------- | ----- |
+| Flour           | 1        | cup   |
+| Unsalted Butter | 1        | stick |
+| Egg Yolk        | 1        | whole |
+| Powdered Sugar  | 2        | tbsps |
+| Cold Water      | 2        | tbsps |
+| Salt            | ½        | tsp   |
 
 ### Custard
 
-| Ingredient      | Quantity | Unit       |
-| --------------- | -------- | ---------- |
-| Hot Water       | 2        | Tablespoon |
-| Sugar           | 2        | Tablespoon |
-| Egg             | 1        | Whole      |
-| Milk            | 0.25     | Cup        |
-| Vanilla Extract | 1        | Teaspoon   |
+| Ingredient      | Quantity | Unit  |
+| --------------- | -------- | ----- |
+| Hot Water       | 2        | tbsps |
+| Sugar           | 2        | tbsps |
+| Egg             | 1        | whole |
+| Milk            | ¼        | cup   |
+| Vanilla Extract | 1        | tsp   |
 
 ## Process
 
