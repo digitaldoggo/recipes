@@ -4,6 +4,8 @@
 
 ### Sweetened Condensed Milk
 
+> This is optional. You may substitute for a can.
+
 | Ingredient | Quantity | Unit |
 | ---------- | -------- | ---- |
 | whole Milk | 2        | cups |
