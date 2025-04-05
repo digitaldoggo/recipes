@@ -1,8 +1,6 @@
 <!-- docs/_sidebar.md -->
 
 - [Home](/)
-- [Cooking](cooking/main.md "Cooking Recipes")
-  - [Slow Cooker Chicken Stew](cooking/slow_cooker_chicken_stew.md "Slow Cooker Chicken Stew")
 - [Baking](baking/main.md "Baking Recipes")
   - [Chocolate Orange Brownies](baking/chocolate_orange_brownies.md "Chocolate Orange Brownies")
   - [Orange Shortbread Cookies](baking/orange_shortbread_cookies.md "Orange Shortbread Cookies")
@@ -12,4 +10,6 @@
   - [Peppermint Kiss Cookies](baking/peppermint_kiss_cookies.md "Peppermint Kiss Cookies")
   - [Banana Bread](baking/banana_bread.md "Banana Bread")
   - [Chocolate Chip Cookies](baking/chocolate_chip_cookies.md "Chocolate Chip Cookies")
+- [Cooking](cooking/main.md "Cooking Recipes")
+  - [Slow Cooker Chicken Stew](cooking/slow_cooker_chicken_stew.md "Slow Cooker Chicken Stew")
   <!-- - []( "") -->
