@@ -4,24 +4,25 @@
 
 ## Ingredients
 
-| Ingredient                                                                   | Quantity       |
-| ---------------------------------------------------------------------------- | -------------- |
-| Old-Fashioned Rolled Oats                                                    | 3 cups         |
-| Unbleached Organic All-Purpose Flour                                         | 1 1/2 cups     |
-| Brewer's Yeast                                                               | 5 tablespoons  |
-| Ground Flaxseed                                                              | 3 tablespoons  |
-| Baking Powder                                                                | 1/2 teaspoon   |
-| Baking Soda                                                                  | 1/2 teaspoon   |
-| Ground Cinnamon                                                              | 1/2 teaspoon   |
-| Salt                                                                         | 1/4 teaspoon   |
-| Organic Unsalted Butter                                                      | 12 tablespoons |
-| Unrefined Organic Virgin Coconut Oil                                         | 4 tablespoons  |
-| Organic Cane Sugar                                                           | 1 1/2 cups     |
-| Large Egg                                                                    | 1              |
-| Large Egg Yolk                                                               | 1              |
-| Vanilla Extract                                                              | 2 teaspoons    |
-| Dark Chocolate Chips/Chunks                                                  | 1 1/2 cups     |
-| Optional Add-ins: Unsweetened Flaked Coconut, Chopped Almonds, Almond Butter | As desired     |
+| Ingredient                   | Quantity       |
+| ---------------------------- | -------------- |
+| Old-Fashioned Rolled Oats    | 3 cups         |
+| Unbleached All-Purpose Flour | 1 1/2 cups     |
+| Brewer's Yeast               | 5 tablespoons  |
+| Ground Flaxseed              | 3 tablespoons  |
+| Baking Powder                | 1/2 teaspoon   |
+| Baking Soda                  | 1/2 teaspoon   |
+| Ground Cinnamon              | 1/2 teaspoon   |
+| Salt                         | 1/4 teaspoon   |
+| Unsalted Butter              | 12 tablespoons |
+| Coconut Oil                  | 4 tablespoons  |
+| Sugar                        | 1 1/2 cups     |
+| Large Egg                    | 1              |
+| Large Egg Yolk               | 1              |
+| Vanilla Extract              | 2 teaspoons    |
+| Dark Chocolate Chips/Chunks  | 1 1/2 cups     |
+
+> Optional Add-ins: Unsweetened Flaked Coconut, Chopped Almonds, Almond Butter
 
 ## Instructions
 
@@ -37,11 +38,11 @@
 10. Bake for 10 to 14 minutes, or until the bottoms are just golden.
 11. Let the cookies cool completely before storing them in a sealed container.
 
-## Notes
-
-1. **Freezing Dough**: Scoop the dough rounds onto a baking sheet, freeze for 2 hours, then transfer to a ziplock bag. Bake directly from frozen at the same temperature, adding 1-2 extra minutes if needed.
-2. **Butter and Coconut Oil**: You can use all butter if coconut oil is unavailable. Substituting more coconut oil for butter will cause the cookies to spread more. Reducing the total fat will result in drier cookies.
-3. **Whole Wheat Flour**: You can substitute 1/2 cup of whole wheat flour with similar results. Using more may make the cookies drier and grittier.
-4. **Sugar Reduction**: You can reduce the sugar by 1/4 cup without affecting the recipe.
-5. **Vegan or Gluten-Free Variations**: This recipe has not been tested with vegan substitutes or gluten-free flour.
-6. **Brewer's Yeast**: You can increase the brewer's yeast by 1 to 2 tablespoons if desired.
+> ## Notes
+>
+> - **Freezing Dough**: Scoop the dough rounds onto a baking sheet, freeze for 2 hours, then transfer to a ziplock bag. Bake directly from frozen at the same temperature, adding 1-2 extra minutes if needed.
+> - **Butter and Coconut Oil**: You can use all butter if coconut oil is unavailable. Substituting more coconut oil for butter will cause the cookies to spread more. Reducing the total fat will result in drier cookies.
+> - **Whole Wheat Flour**: You can substitute 1/2 cup of whole wheat flour with similar results. Using more may make the cookies drier and grittier.
+> - **Sugar Reduction**: You can reduce the sugar by 1/4 cup without affecting the recipe.
+> - **Vegan or Gluten-Free Variations**: This recipe has not been tested with vegan substitutes or gluten-free flour.
+> - **Brewer's Yeast**: You can increase the brewer's yeast by 1 to 2 tablespoons if desired.

@@ -2,23 +2,11 @@
 
 ## Ingredients
 
-### Original
+> Qing's Favorite - Use ¼ cup Sugar
 
 | Ingredient      | Quantity | Unit   |
 | --------------- | -------- | ------ |
 | Sugar           | ½        | cup    |
-| Orange Zest     | 2        | whole  |
-| Unsalted Butter | 2        | sticks |
-| Vanilla Extract | 1 ½      | tsp    |
-| Egg             | 1        | whole  |
-| Flour           | 2 ½      | cups   |
-| Salt            | ¾        | tsp    |
-
-### Qing's Favorite
-
-| Ingredient      | Quantity | Unit   |
-| --------------- | -------- | ------ |
-| Sugar           | ¼        | cup    |
 | Orange Zest     | 2        | whole  |
 | Unsalted Butter | 2        | sticks |
 | Vanilla Extract | 1 ½      | tsp    |

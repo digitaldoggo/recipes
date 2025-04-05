@@ -1,4 +1,4 @@
-# Chocolate Kiss Cookies
+# Peppermint Kiss Cookies
 
 ## Ingredients
 
@@ -35,11 +35,11 @@
 7. Remove from the oven and cool for 2-3 minutes. Press a chocolate kiss into the center of each cookie and transfer to a cooling rack.
 8. Cool completely before serving.
 
-## Notes
-
-- Ensure all ingredients are at room temperature.
-- To measure flour, gently spoon flour into the measuring cups. Avoid scooping flour directly with the measuring cups.
-- Chocolate kisses can be substituted with small peanut butter cupss or Rolos.
+> ## Notes
+>
+> - Ensure all ingredients are at room temperature.
+> - To measure flour, gently spoon flour into the measuring cups. Avoid scooping flour directly with the measuring cups.
+> - Chocolate kisses can be substituted with small peanut butter cupss or Rolos.
 
 <!-- ## Nutrition Information
 
