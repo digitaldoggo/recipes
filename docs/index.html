@@ -8,6 +8,7 @@
   <meta name="keywords" content="recipes, cooking, food, favorite recipes">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
 </head>
 <body>
   <div id="app"></div>
@@ -26,8 +27,12 @@
         '/.*/_sidebar.md': '/_sidebar.md'
       },
       subMaxLevel: 2,
+      sidebarDisplayLevel: 0, // set sidebar display level
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+
+  <!-- plugins -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>
