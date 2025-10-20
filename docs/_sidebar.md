@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](/)
+- [Recipes](/)
 - [Baking](baking/main.md "Baking Recipes")
   - [Chocolate Orange Brownies](baking/chocolate_orange_brownies.md "Chocolate Orange Brownies")
   - [Orange Shortbread Cookies](baking/orange_shortbread_cookies.md "Orange Shortbread Cookies")
