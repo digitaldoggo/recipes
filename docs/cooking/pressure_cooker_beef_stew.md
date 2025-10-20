@@ -1,4 +1,4 @@
-# Slow Cooker Chicken Stew
+# Pressure Cooker Beef Stew
 
 ## Ingredients
 
