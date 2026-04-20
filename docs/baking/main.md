@@ -6,6 +6,7 @@
 - [Orange Shortbread Cookies](baking/orange_shortbread_cookies.md "Orange Shortbread Cookies")
 - [Egg Tarts - Hong Kong Style](baking/egg_tarts-hong_kong_style.md "Egg Tarts - Hong Kong Style")
 - [Coconut Macaroons](baking/coconut_macaroons.md "Coconut Macaroons")
+- [Chewy Coconut Sugar Cookies](baking/chewy_coconut_sugar_cookies.md "Chewy Coconut Sugar Cookies")
 - [Coconut Oil Sugar Cookies](baking/coconut_oil_sugar_cookies.md "Coconut Oil Sugar Cookies")
 - [Peppermint Kiss Cookies](baking/peppermint_kiss_cookies.md "Peppermint Kiss Cookies")
 - [Banana Muffins](baking/banana_muffins.md "Banana Muffins")
