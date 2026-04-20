@@ -12,5 +12,6 @@
 - [Banana Muffins](baking/banana_muffins.md "Banana Muffins")
 - [Basic Banana Bread](baking/basic_banana_bread.md "Basic Banana Bread")
 - [Banana Bread](baking/banana_bread.md "Banana Bread")
+- [Oatmeal Cookies](baking/oatmeal_cookies.md "Oatmeal Cookies")
 - [Chocolate Chip Cookies](baking/chocolate_chip_cookies.md "Chocolate Chip Cookies")
 <!-- - []( "") -->
