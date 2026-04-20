@@ -8,6 +8,7 @@
   - [Coconut Macaroons](baking/coconut_macaroons.md "Coconut Macaroons")
   - [Coconut Oil Sugar Cookies](baking/coconut_oil_sugar_cookies.md "Coconut Oil Sugar Cookies")
   - [Peppermint Kiss Cookies](baking/peppermint_kiss_cookies.md "Peppermint Kiss Cookies")
+  - [Banana Muffins](baking/banana_muffins.md "Banana Muffins")
   - [Banana Bread](baking/banana_bread.md "Banana Bread")
   - [Chocolate Chip Cookies](baking/chocolate_chip_cookies.md "Chocolate Chip Cookies")
 - [Cooking](cooking/main.md "Cooking Recipes")
