@@ -15,6 +15,7 @@
   - [Oatmeal Cookies](baking/oatmeal_cookies.md "Oatmeal Cookies")
   - [Chocolate Chip Cookies](baking/chocolate_chip_cookies.md "Chocolate Chip Cookies")
 - [Cooking](cooking/main.md "Cooking Recipes")
+  - [French Toast Casserole](cooking/french_toast_casserole.md "French Toast Casserole")
   - [How To Make Heavy Cream](cooking/how_to_make_heavy_cream.md "How To Make Heavy Cream")
   - [Banana Pancakes](cooking/banana_pancakes.md "Banana Pancakes")
   - [Slow Cooker Chili](cooking/slow_cooker_chili.md "Slow Cooker Chili")
