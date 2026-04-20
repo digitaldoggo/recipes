@@ -14,6 +14,7 @@
   - [Banana Bread](baking/banana_bread.md "Banana Bread")
   - [Chocolate Chip Cookies](baking/chocolate_chip_cookies.md "Chocolate Chip Cookies")
 - [Cooking](cooking/main.md "Cooking Recipes")
+  - [How To Make Heavy Cream](cooking/how_to_make_heavy_cream.md "How To Make Heavy Cream")
   - [Banana Pancakes](cooking/banana_pancakes.md "Banana Pancakes")
   - [Slow Cooker Chili](cooking/slow_cooker_chili.md "Slow Cooker Chili")
   - [Slow Cooker Chicken Stew](cooking/slow_cooker_chicken_stew.md "Slow Cooker Chicken Stew")
