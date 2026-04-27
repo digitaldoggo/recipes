@@ -9,4 +9,5 @@
 - [Slow Cooker Chicken Stew](cooking/slow_cooker_chicken_stew.md "Slow Cooker Chicken Stew")
 - [Instant Pot Sweet Potatoes](cooking/instant_pot_sweet_potatoes.md "Instant Pot Sweet Potatoes")
 - [Pressure Cooker Beef Stew](cooking/pressure_cooker_beef_stew.md "Pressure Cooker Beef Stew")
+- [Baked Salmon with Dill](cooking/baked_salmon_with_dill.md "Baked Salmon with Dill")
 <!-- - []( "") -->
