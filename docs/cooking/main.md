@@ -11,4 +11,5 @@
 - [Pressure Cooker Beef Stew](cooking/pressure_cooker_beef_stew.md "Pressure Cooker Beef Stew")
 - [Basic Beef Meatballs](cooking/basic_beef_meatballs.md "Basic Beef Meatballs")
 - [Baked Salmon with Dill](cooking/baked_salmon_with_dill.md "Baked Salmon with Dill")
+- [Thai Peanut Chicken](cooking/thai_peanut_chicken.md "Thai Peanut Chicken")
 <!-- - []( "") -->
