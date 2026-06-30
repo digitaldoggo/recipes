@@ -11,9 +11,206 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
   <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp" /> -->
+
+  <!-- Dark mode theme styles -->
+  <style>
+    /* ---------- CSS variables for dark mode ---------- */
+    [data-theme="dark"] {
+      --color-text: #e0e0e0;
+      --color-heading: #ffffff;
+      --color-bg: #1a1b26;
+      --color-body-bg: #1a1b26;
+      --color-sidebar-bg: #16171e;
+      --color-sidebar-text: #c0caf5;
+      --color-link: #7aa2f7;
+      --color-link-hover: #bb9af7;
+      --color-border: #3b3d57;
+      --color-code-bg: #24283b;
+      --color-blockquote-border: #565f89;
+      --color-blockquote-text: #a9b1d6;
+      --color-table-header: #24283b;
+      --color-table-stripe: #1e2030;
+      --color-search-input-bg: #24283b;
+      --color-search-input-border: #3b3d57;
+      --color-search-result-hl: #facc15;
+      --color-button-bg: #24283b;
+      --color-button-text: #c0caf5;
+      --color-toggle-icon: #e0e0e0;
+    }
+
+    [data-theme="dark"] body {
+      background-color: var(--color-body-bg);
+      color: var(--color-text);
+    }
+
+    [data-theme="dark"] h1,
+    [data-theme="dark"] h2,
+    [data-theme="dark"] h3,
+    [data-theme="dark"] h4,
+    [data-theme="dark"] h5,
+    [data-theme="dark"] h6 {
+      color: var(--color-heading);
+    }
+
+    [data-theme="dark"] a {
+      color: var(--color-link);
+    }
+
+    [data-theme="dark"] a:hover {
+      color: var(--color-link-hover);
+    }
+
+    [data-theme="dark"] .sidebar {
+      background-color: var(--color-sidebar-bg) !important;
+    }
+
+    [data-theme="dark"] .sidebar ul li a {
+      color: var(--color-sidebar-text);
+    }
+
+    [data-theme="dark"] .sidebar ul li a:hover {
+      color: var(--color-link-hover);
+    }
+
+    [data-theme="dark"] code,
+    [data-theme="dark"] pre,
+    [data-theme="dark"] .app-name-badge code {
+      background-color: var(--color-code-bg) !important;
+      color: #a9b1d6;
+    }
+
+    [data-theme="dark"] blockquote {
+      border-left-color: var(--color-blockquote-border);
+      color: var(--color-blockquote-text);
+    }
+
+    [data-theme="dark"] table th {
+      background-color: var(--color-table-header);
+      border-color: var(--color-border);
+    }
+
+    [data-theme="dark"] table tr:nth-child(2n) {
+      background-color: var(--color-table-stripe);
+    }
+
+    [data-theme="dark"] table td,
+    [data-theme="dark"] table th {
+      border-color: var(--color-border);
+    }
+
+    [data-theme="dark"] .search input {
+      background-color: var(--color-search-input-bg) !important;
+      border-color: var(--color-search-input-border) !important;
+      color: var(--color-text);
+    }
+
+    [data-theme="dark"] .search input::placeholder {
+      color: #565f89;
+    }
+
+    [data-theme="dark"] .search .matching-post,
+    [data-theme="dark"] .search .search-keyword {
+      background-color: transparent;
+      color: var(--color-search-result-hl);
+    }
+
+    /* ---------- Theme toggle button ---------- */
+    #theme-toggle-btn {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      z-index: 9999;
+      width: 48px;
+      height: 48px;
+      border-radius: 50%;
+      border: 2px solid var(--color-border);
+      background-color: var(--color-button-bg);
+      color: var(--color-toggle-icon);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 22px;
+      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
+      transition: background-color 0.3s ease, transform 0.2s ease;
+      user-select: none;
+    }
+
+    #theme-toggle-btn:hover {
+      transform: scale(1.1);
+    }
+
+    /* ---------- Smooth transitions for theme switch ---------- */
+    body, h1, h2, h3, h4, h5, h6, a, code, pre, blockquote, table th, table tr:nth-child(2n), .sidebar, .search input {
+      transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+    }
+  </style>
 </head>
 <body>
   <div id="app"></div>
+
+  <!-- Theme toggle button -->
+  <button id="theme-toggle-btn" aria-label="Toggle dark mode" title="Toggle dark/light mode">🌙</button>
+
+  <script>
+    // ---------- Dark/Light theme toggle logic ----------
+    (function () {
+      var STORAGE_KEY = 'recipes-theme';
+      var btn = document.getElementById('theme-toggle-btn');
+
+      /** Determine the initial theme: localStorage > prefers-color-scheme > light */
+      function getInitialTheme() {
+        var stored = localStorage.getItem(STORAGE_KEY);
+        if (stored === 'dark' || stored === 'light') {
+          return stored;
+        }
+        // No stored preference — respect OS setting
+        if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          return 'dark';
+        }
+        return 'light';
+      }
+
+      /** Apply a theme to the document */
+      function applyTheme(theme) {
+        if (theme === 'dark') {
+          document.documentElement.setAttribute('data-theme', 'dark');
+          btn.textContent = '☀️';
+          btn.title = 'Switch to light mode';
+        } else {
+          document.documentElement.removeAttribute('data-theme');
+          btn.textContent = '🌙';
+          btn.title = 'Switch to dark mode';
+        }
+      }
+
+      /** Toggle between dark and light */
+      function toggleTheme() {
+        var current = getInitialTheme();
+        // Check actual applied state (localStorage may differ from current DOM)
+        var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+        var next = isDark ? 'light' : 'dark';
+        localStorage.setItem(STORAGE_KEY, next);
+        applyTheme(next);
+      }
+
+      // Apply initial theme on load
+      applyTheme(getInitialTheme());
+
+      // Listen for clicks
+      btn.addEventListener('click', toggleTheme);
+
+      // Listen for OS-level changes when no explicit preference is stored
+      if (window.matchMedia) {
+        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function (e) {
+          if (!localStorage.getItem(STORAGE_KEY)) {
+            applyTheme(e.matches ? 'dark' : 'light');
+          }
+        });
+      }
+    })();
+  </script>
+
   <script>
     window.$docsify = {
       name: '',
